@@ -177,7 +177,7 @@ Project ZAM/
 └── README.md
 ```
 
-## Funkcje
+## Funkcje na przyszłość
 
 - **Bezpieczeństwo**: tokeny JWT do autoryzacji, haszowanie haseł za pomocą bcrypt
 - **Cache**: zapisywanie kursów walut w bazie danych dla szybszego dostępu
@@ -188,7 +188,3 @@ Project ZAM/
 ## Autor
 
 Viacheslav Lisovskyi
-
-## Licencja
-
-ISC
